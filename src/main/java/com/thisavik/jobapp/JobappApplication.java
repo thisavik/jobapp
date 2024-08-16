@@ -11,3 +11,9 @@ public class JobappApplication {
 	}
 
 }
+
+/*
+./mnvw spring-boot:build-image -Dspring-boot.build-image.imageName=<Image-name>
+
+
+ */
